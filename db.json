@@ -1,0 +1,358 @@
+{
+  "cars": [
+    {
+      "country": "Китай",
+      "condition": "10000",
+      "year": "2019",
+      "brand": "Jac",
+      "model": "iEV6E luxury smart",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 7650,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmmGcUOaAHv5lAAKoJYv9xy4396.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkmGcUOmAbs8oAAI1CjOOkCo625.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkmGcUO6AXx49AAIP7cf3QS4639.jpg"
+      ],
+      "description": "JAC iEV6E – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [
+        {
+          "name": "mirdin2@mail.ru",
+          "commentText": "Привет, у вас хороший сайт!",
+          "time": 1638389008
+        },
+        {
+          "name": "mirdin2@mail.ru",
+          "commentText": "аываыа",
+          "time": 1638389027
+        },
+        {
+          "name": "mirdin2@mail.ru",
+          "commentText": "ываываыа",
+          "time": 1638389042
+        },
+        {
+          "name": "mirdin2@mail.ru",
+          "commentText": "ыаыаыва",
+          "time": 1638389044
+        },
+        {
+          "name": "mirdin2@mail.ru",
+          "commentText": "ываыа",
+          "time": 1638389047
+        },
+        {
+          "name": "mirdin@mail.ru",
+          "commentText": "fdsfsdf",
+          "time": 1638442398
+        }
+      ],
+      "id": 1
+    },
+    {
+      "country": "Китай",
+      "condition": "12000",
+      "year": "2018",
+      "brand": "Baic",
+      "model": "EU5 R500 Zhifeng",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 15900,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxknWFmgmqAGYq8AAKEF9BW2tI923.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxknWFmgmqAMeFZAAKXmvRkuaA961.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxknWFmgm2AEVnqAAGcNnZmvmU469.jpg"
+      ],
+      "description": "BAIC R500 Zhifeng – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [
+        {
+          "name": "admin@mail.ru",
+          "commentText": "adasdasdad",
+          "time": 1638390546
+        },
+        {
+          "name": "admin@mail.ru",
+          "commentText": "sfdsf",
+          "time": 1638390550
+        },
+        {
+          "name": "admin1@mail.ru",
+          "commentText": "Очень хорошо!",
+          "time": 1638392788
+        }
+      ],
+      "id": 2
+    },
+    {
+      "country": "Китай",
+      "condition": "Новый",
+      "year": "2020",
+      "brand": "Jac",
+      "model": "ievs4 2019 Luxury",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "110",
+      "price": 17900,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmmGfUhGATHyHAAF8xbT1mDg092.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkWGfUhOAMXw3AAF9POMHAxw630.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkmGfUhWAbJgfAAJVRppzZuI289.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmWGfUheAaEidAAHP0Ag_J54933.jpg"
+      ],
+      "description": "Jac ievs4 2019 Luxury – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 3
+    },
+    {
+      "country": "Китай",
+      "condition": "55000",
+      "year": "2018",
+      "brand": "Baic",
+      "model": "New Energy Model EX360",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 10900,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkWGaFvmAXx6lAAJQafctyJI789.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkWGaFv2AXV0eAAHIxpDTHEg921.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmmGaFv2AI04WAAIjj8GVwIg121.jpg"
+      ],
+      "description": "BAIC R500 Zhifeng – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [
+        {
+          "name": "admin1@mail.ru",
+          "commentText": "фывывфв",
+          "time": 1638392877
+        }
+      ],
+      "id": 4
+    },
+    {
+      "country": "Япония",
+      "condition": "55000",
+      "year": "2017",
+      "brand": "Nissan",
+      "model": "Leaf",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Седан",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 7900,
+      "image": [
+        "https://auto.ironhorse.ru/wp-content/uploads/2011/05/LEAF-1-550x309.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2011/05/LEAF-1-rear-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2011/05/LEAF-1-int1-550x412.jpg"
+      ],
+      "description": "Nissan Leaf – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 5
+    },
+    {
+      "country": "Япония",
+      "condition": "55000",
+      "year": "2017",
+      "brand": "Nissan",
+      "model": "Leaf",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Седан",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 6900,
+      "image": [
+        "https://auto.ironhorse.ru/wp-content/uploads/2017/09/Leaf-2-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2017/09/Leaf-2-side-550x275.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2017/09/Leaf-2-rear-550x492.jpg"
+      ],
+      "description": "Nissan Leaf – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 6
+    },
+    {
+      "country": "Европа",
+      "condition": "Новый",
+      "year": "2021",
+      "brand": "Polestar",
+      "model": "2",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Седан",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 13900,
+      "image": [
+        "https://auto.ironhorse.ru/wp-content/uploads/2020/03/polestar-2-front-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2020/03/polestar-2-rear-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2020/03/polestar-2-int1-550x471.jpg"
+      ],
+      "description": "Polestar 2 – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 7
+    },
+    {
+      "country": "Китай",
+      "condition": "10000",
+      "year": "2019",
+      "brand": "Jac",
+      "model": "iEV6E luxury smart",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 7650,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmmGcUOaAHv5lAAKoJYv9xy4396.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkmGcUOmAbs8oAAI1CjOOkCo625.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkmGcUO6AXx49AAIP7cf3QS4639.jpg"
+      ],
+      "description": "JAC iEV6E – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 8
+    },
+    {
+      "country": "Китай",
+      "condition": "12000",
+      "year": "2018",
+      "brand": "Baic",
+      "model": "EU5 R500 Zhifeng",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 15900,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxknWFmgmqAGYq8AAKEF9BW2tI923.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxknWFmgmqAMeFZAAKXmvRkuaA961.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxknWFmgm2AEVnqAAGcNnZmvmU469.jpg"
+      ],
+      "description": "BAIC R500 Zhifeng – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [
+        {
+          "commentText": "ывавыа",
+          "time": 1638392822
+        }
+      ],
+      "id": 9
+    },
+    {
+      "country": "Китай",
+      "condition": "Новый",
+      "year": "2020",
+      "brand": "Jac",
+      "model": "ievs4 2019 Luxury",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "110",
+      "price": 17900,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmmGfUhGATHyHAAF8xbT1mDg092.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkWGfUhOAMXw3AAF9POMHAxw630.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkmGfUhWAbJgfAAJVRppzZuI289.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmWGfUheAaEidAAHP0Ag_J54933.jpg"
+      ],
+      "description": "Jac ievs4 2019 Luxury – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 10
+    },
+    {
+      "country": "Китай",
+      "condition": "55000",
+      "year": "2018",
+      "brand": "Baic",
+      "model": "New Energy Model EX360",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Хетчбек",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 10900,
+      "image": [
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkWGaFvmAXx6lAAJQafctyJI789.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChwFkWGaFv2AXV0eAAHIxpDTHEg921.jpg",
+        "https://electro-car.by/wp-content/uploads/2021/11/f_900x675_0_q87_autohomecar__ChxkmmGaFv2AI04WAAIjj8GVwIg121.jpg"
+      ],
+      "description": "BAIC R500 Zhifeng – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 11
+    },
+    {
+      "country": "Япония",
+      "condition": "55000",
+      "year": "2017",
+      "brand": "Nissan",
+      "model": "Leaf",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Седан",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 7900,
+      "image": [
+        "https://auto.ironhorse.ru/wp-content/uploads/2011/05/LEAF-1-550x309.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2011/05/LEAF-1-rear-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2011/05/LEAF-1-int1-550x412.jpg"
+      ],
+      "description": "Nissan Leaf – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 12
+    },
+    {
+      "country": "Япония",
+      "condition": "55000",
+      "year": "2017",
+      "brand": "Nissan",
+      "model": "Leaf",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Седан",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 6900,
+      "image": [
+        "https://auto.ironhorse.ru/wp-content/uploads/2017/09/Leaf-2-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2017/09/Leaf-2-side-550x275.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2017/09/Leaf-2-rear-550x492.jpg"
+      ],
+      "description": "Nissan Leaf – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 13
+    },
+    {
+      "country": "Европа",
+      "condition": "Новый",
+      "year": "2021",
+      "brand": "Polestar",
+      "model": "2",
+      "motor": "50",
+      "drive": "Передний",
+      "bodyType": "Седан",
+      "battery": "40",
+      "powerReserve": "310",
+      "price": 13900,
+      "image": [
+        "https://auto.ironhorse.ru/wp-content/uploads/2020/03/polestar-2-front-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2020/03/polestar-2-rear-550x343.jpg",
+        "https://auto.ironhorse.ru/wp-content/uploads/2020/03/polestar-2-int1-550x471.jpg"
+      ],
+      "description": "Polestar 2 – переднеприводный электрический хэтчбек субкомпактного класса (он же «A-сегмент» по европейской классификации), который позиционируется китайским автопроизводителем в качестве транспорта «сугубо для городских поездок» (отчего для многих людей станет как минимум второй машиной в семье)…",
+      "comments": [],
+      "id": 14
+    }
+  ]
+}

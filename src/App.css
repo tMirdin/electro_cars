@@ -1,0 +1,15 @@
+body {
+  min-width: 1024px;
+  width: 100vh;
+  height: 100%;
+  margin: 0;
+  position: relative;
+}
+
+a:hover {
+  list-style-type: none;
+}
+
+input {
+  outline: none;
+}

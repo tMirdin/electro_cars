@@ -1,0 +1,156 @@
+.imgBigIcon {
+  width: 10%;
+  margin: 0 auto;
+  display: block;
+}
+
+.h1TitleFav {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 700;
+  margin: 0;
+}
+
+.basketAndOrder {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.basketAndOrder .basket {
+  width: 40%;
+  padding: 2%;
+}
+
+.basketAndOrder .basket h4 {
+  text-align: end;
+  color: #e60a0a;
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.basketAndOrder .basket .basketCard {
+  width: 100%;
+  border-radius: 5px;
+  background-color: inherit;
+  -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.8);
+          box-shadow: 0 0 6px rgba(0, 0, 0, 0.8);
+  padding: 2%;
+  margin: 1% auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.basketAndOrder .basket .basketCard .leftBasket {
+  width: 60%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.basketAndOrder .basket .basketCard .leftBasket img {
+  width: 130px;
+  border-radius: 2px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.basketAndOrder .basket .basketCard .leftBasket img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.basketAndOrder .basket .basketCard .leftBasket p {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.basketAndOrder .basket .basketCard .leftBasket p span {
+  display: block;
+  margin: 10% auto;
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.basketAndOrder .basket .basketCard .rightBasket {
+  width: 40%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.basketAndOrder .basket .basketCard .rightBasket span {
+  display: block;
+  margin: 2% auto;
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.basketAndOrder .basket .basketCard .rightBasket img {
+  display: block;
+  width: 33px;
+  height: 30px;
+  margin: 0 2%;
+  cursor: pointer;
+}
+
+.basketAndOrder .basket .basketCard .rightBasket img:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.basketAndOrder .basket .basketCard .rightBasket input {
+  width: 55px;
+  height: 28px;
+  text-align: center;
+  padding: 0;
+  display: block;
+  font-weight: 600;
+  border-radius: 8px;
+  font-size: 1.02rem;
+  margin: 0 5%;
+  color: #030303;
+  background-color: inherit;
+  outline: none;
+  border: 0.5px normal black;
+}
+
+.basketAndOrder .orderForm {
+  width: 50%;
+}
+
+@media screen and (max-width: 882px) {
+  .basketAndOrder {
+    display: block;
+  }
+  .basketAndOrder .orderForm {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .basketAndOrder .basket {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 882px) and (max-width: 460px) {
+  .basketAndOrder .basket .basketCard {
+    display: block;
+  }
+  .basketAndOrder .basket .basketCard .rightBasket {
+    display: block;
+  }
+}
+/*# sourceMappingURL=Basket.css.map */

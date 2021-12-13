@@ -1,0 +1,50 @@
+.imgBigIcon {
+  width: 10%;
+  margin: 0 auto;
+  display: block;
+}
+.h1TitleFav {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  color: rgba(209, 43, 43, 0.829);
+  font-weight: 700;
+  margin: 0;
+}
+
+.addCars {
+  width: 40%;
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid black;
+  margin: 2% auto;
+}
+
+.addCars p {
+  width: 100%;
+  margin: 1% 4%;
+  display: flex;
+  justify-content: space-between;
+}
+.addCars input {
+  width: 60%;
+  height: 20px;
+  font-size: 1rem;
+}
+.addCars span {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.addCars button {
+  padding: 5px;
+  width: 120px;
+  font-size: 0.8rem;
+  background-color: crimson;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.addCars button:active {
+  transform: scale(0.9);
+}

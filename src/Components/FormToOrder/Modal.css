@@ -1,0 +1,85 @@
+#modalContainer {
+  width: 95%;
+  height: 15%;
+  border-radius: 12px;
+  background-color: White;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+  margin-top: 1%;
+}
+
+#modalContainer .title {
+  display: inline-block;
+  text-align: center;
+  font-size: 1.3rem;
+  color: red;
+}
+.pCheck {
+  display: block;
+  margin: 1%;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.titleCloseBtn {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+}
+
+.titleCloseBtn button {
+  background-color: transparent;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+#modalContainer .body {
+  flex: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+#modalContainer .clickBack {
+  flex: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#modalContainer .clickBack button {
+  width: 120px;
+  height: 45px;
+  border: none;
+  background-color: cornflowerblue;
+  color: white;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin: 1%;
+}
+
+#canselBtn {
+  background-color: rgba(32, 182, 132, 0.87);
+}
+
+#modalContainer img {
+  width: 80px;
+}
+
+.h {
+  font-size: 1.3rem;
+  margin: 0;
+}
+
+.red p {
+  font-size: 1.4rem;
+  text-align: center;
+  color: red;
+  margin: 1% auto;
+}

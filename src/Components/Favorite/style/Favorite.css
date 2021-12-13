@@ -1,0 +1,135 @@
+.carsFav {
+  width: 310px;
+  margin: 2%;
+  padding: 0.5%;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.carsFav:hover {
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+.carsFav a {
+  text-decoration: none;
+  color: black;
+}
+
+.carsFav .iconFav {
+  width: 15px;
+  text-align: center;
+}
+
+.carsFav .imgCarFav {
+  width: 100%;
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.carsFav .imgCarFav:hover {
+  border-radius: 20px;
+  -webkit-transform: scale(1.01);
+          transform: scale(1.01);
+}
+
+.carsFav .spanFav {
+  font-size: 14.5px;
+  margin: 3px;
+}
+
+.carsFav h2 {
+  text-align: center;
+  margin: 4% auto;
+}
+
+.carsFav h3 {
+  font-size: 20px;
+  text-align: end;
+  margin: 3%;
+}
+
+.carsFav .pFav {
+  font-size: 16px;
+  text-align: end;
+  margin: 2%;
+}
+
+.carsFav .menuFavBasket {
+  padding: 2px 2px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.carsFav .menuFavBasket .iconFavorite {
+  width: 33px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.carsFav .menuFavBasket .iconFavorite:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.carsFav .menuFavBasket .iconFavorite:active {
+  -webkit-transform: scale(-1);
+          transform: scale(-1);
+}
+
+.carsFav .menuFavBasket .iconBasket {
+  width: 40px;
+  height: 33px;
+  cursor: pointer;
+}
+
+.carsFav .menuFavBasket .iconBasket:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.carsFav .menuFavBasket .iconBasket:active {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.container_favorite {
+  height: auto;
+  min-height: 700px;
+}
+
+.container_favorite .imgBigIcon {
+  width: 10%;
+  margin: 0 auto;
+  display: block;
+}
+
+.container_favorite .h1TitleFav {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.918);
+  font-weight: 700;
+  margin: 0;
+}
+
+.container_favorite .flexFavCard {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=Favorite.css.map */

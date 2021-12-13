@@ -1,0 +1,27 @@
+.accordion {
+  width: 300px;
+  height: auto;
+  & .lab {
+    font-size: 1.1rem;
+    font-weight: bold;
+    opacity: 0.9;
+    color: rgb(71, 70, 70);
+  }
+}
+.css-hyxlzm,
+.PrivateSwitchBase-input,
+.css-1m9pwf3,
+.MuiTouchRipple-root,
+.css-8je8zh-MuiTouchRipple-root {
+  opacity: 0;
+}
+
+.MuiRadio-root,
+.MuiRadio-colorPrimary,
+.PrivateSwitchBase-root,
+.Mui-checked,
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root {
+  padding: 0;
+  margin: 0;
+  width: 0;
+}

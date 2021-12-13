@@ -1,0 +1,90 @@
+.videoLogin {
+  position: absolute;
+  object-fit: cover;
+  width: 100vw;
+  height: 768px;
+}
+.login {
+  position: relative;
+  width: 100%;
+  height: 768px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: 100% 100%;
+  // opacity: 0.8;
+
+  & .loginContainer {
+    width: 400px;
+    height: 500px;
+    padding: 2%;
+    margin: 20px 0;
+    // background-image: url(https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80);
+    // background-size: cover;
+    background-color: inherit;
+    border-radius: 5%;
+    text-align: center;
+    box-shadow: 0 0 8px rgba($color: #000000, $alpha: 0.8);
+
+    & h3 {
+      color: crimson;
+      font-family: "Poppins", sans-serif;
+      font-size: 1.2rem;
+      // -webkit-text-stroke: 0.5px rgba(255, 255, 255, 0.39);
+    }
+    & label {
+      display: block;
+      margin: 1% auto;
+      font-size: 1.18rem;
+      font-weight: 700;
+      margin-bottom: 3%;
+      background-color: inherit;
+      box-shadow: 0 0 9px rgba($color: #000000, $alpha: 0.1);
+    }
+    & input {
+      outline: none;
+      margin-bottom: 3%;
+      padding: 0.7%;
+      font-size: 1rem;
+      height: 25px;
+      width: 80%;
+      border-radius: 4px;
+      border: none;
+      box-shadow: 0 0 8px rgba($color: #000000, $alpha: 0.8);
+    }
+    & button {
+      border: none;
+      border-radius: 5px;
+      margin-top: 3%;
+      cursor: pointer;
+      width: 80%;
+      padding: 2%;
+      font-size: 1.1rem;
+      color: white;
+      background-color: opacify($color: #000000, $amount: 0.8);
+      &:active {
+        transform: scale(1.1);
+      }
+    }
+    & .errorMsg {
+      font-size: 1rem;
+      color: rgb(255, 72, 0);
+      margin: 0;
+    }
+    & .authP {
+      font-size: 1.1rem;
+      color: #98211c;
+      font-weight: 700;
+    }
+    & .authSpan {
+      margin: 0 2%;
+      color: rgba(0, 0, 0, 0.822);
+      cursor: pointer;
+    }
+  }
+  @media screen and (max-width: 554px) {
+    .loginContainer {
+      width: 300px;
+    }
+  }
+}

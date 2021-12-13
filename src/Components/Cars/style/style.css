@@ -1,0 +1,318 @@
+.carsCard {
+  width: 310px;
+  margin: 2%;
+  padding: 0.5%;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.carsCard:hover {
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+.carsCard a {
+  text-decoration: none;
+  color: black;
+}
+
+.carsCard .iconCard {
+  width: 15px;
+  text-align: center;
+}
+
+.carsCard .imgCar {
+  width: 100%;
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.carsCard .imgCar:hover {
+  border-radius: 20px;
+  -webkit-transform: scale(1.01);
+          transform: scale(1.01);
+}
+
+.carsCard .spanCard {
+  font-size: 14.5px;
+  margin: 3px;
+}
+
+.carsCard h2 {
+  text-align: center;
+  margin: 4% auto;
+}
+
+.carsCard h3 {
+  font-size: 20px;
+  text-align: end;
+  margin: 3%;
+}
+
+.carsCard .pCard {
+  font-size: 16px;
+  text-align: end;
+  margin: 2%;
+}
+
+@media screen and (max-width: 1326px) {
+  .carsCard {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .carsCard {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .carsCard {
+    width: 45%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+@media screen and (max-width: 740px) {
+  .carsCard {
+    width: 50%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .carsCard {
+    width: 300px;
+    display: block;
+  }
+}
+
+.carsList {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.paginationBttns {
+  width: 80%;
+  height: 10%;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 5% auto;
+}
+
+.paginationBttns a {
+  padding: 10%;
+  margin: 10% 8px;
+  border-radius: 5px;
+  border: 1.5px solid #79444e;
+  color: black;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.paginationBttns a:hover {
+  color: white;
+  background-color: #79444e;
+}
+
+.paginationActive a {
+  color: white;
+  background-color: #79444e;
+}
+
+.details {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.details__carousel {
+  width: 50%;
+  padding: 2%;
+}
+
+.details__carousel .mySwiper .mySwiper_img {
+  width: 87px;
+  opacity: 0.5;
+}
+
+.details__carousel .mySwiper .mySwiper_img:hover {
+  opacity: 1;
+}
+
+.details__carousel .mySwiper .swiper-wrapper {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.details__carousel .mySwiper .swiper-slide {
+  cursor: pointer;
+}
+
+.details__carousel .mySwiper .swiper-slide.swiper-slide-thumb-active {
+  border-bottom: 2px solid #1b5e20;
+}
+
+.details__carousel .mySwiper2 .mySwiper2_img {
+  width: 100%;
+  -webkit-transition: 0.8s;
+  transition: 0.8s;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.details__carousel .mySwiper2 .mySwiper2_img:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.details__description {
+  width: 50%;
+  padding: 2%;
+}
+
+.details__description h1 {
+  margin: 0;
+  font: 32px "Montserrat", sans-serif;
+  font-weight: bold;
+  text-align: end;
+}
+
+.details__description h2 {
+  margin: 0;
+  font: 32px "Montserrat", sans-serif;
+  font-weight: bold;
+  text-align: end;
+}
+
+.details__description h3 {
+  margin: 0;
+  font: 28px "Open Sans", sans-serif;
+  text-align: end;
+  padding: 15px 0;
+}
+
+.details__description_desk p {
+  margin: 4px 0;
+  font: 18px "Andale Mono", monospace;
+  font-weight: 500;
+}
+
+.details__description .pDescription {
+  font: 18px "Andale Mono", monospace;
+  font-weight: 400;
+  text-align: justify;
+}
+
+.details__description .iconFavorite {
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+
+.details__description .iconFavorite:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.details__description .iconFavorite:active {
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+}
+
+.details__description .iconBasket {
+  width: 52px;
+  height: 45px;
+  cursor: pointer;
+}
+
+.details__description .iconBasket:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.details__description .iconBasket:active {
+  -webkit-transform: scale(0.8);
+          transform: scale(0.8);
+}
+
+@media screen and (max-width: 500px) {
+  .details {
+    display: block;
+    text-align: center;
+  }
+  .details__description {
+    width: 90%;
+  }
+}
+
+.recom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media screen and (max-width: 1220px) {
+  .recom {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+}
+
+.recom .carsRecom {
+  width: 280px;
+}
+
+.h2Recom {
+  text-align: center;
+  color: black;
+  font-family: "Lucida Sans", sans-serif;
+  opacity: 0.8;
+}
+
+.blockEditDelete {
+  margin: 1%;
+}
+
+.btnUD {
+  padding: 5px;
+  width: 120px;
+  font-size: 0.8rem;
+  background-color: orangered;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  margin: 0.2%;
+  cursor: pointer;
+}
+
+.btnUD:hover {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+/*# sourceMappingURL=style.css.map */

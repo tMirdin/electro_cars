@@ -1,0 +1,147 @@
+a {
+  text-decoration: none;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  width: 100%;
+  height: 50px;
+  background-color: #0a0a0a;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navbar_logo {
+  padding: 10px 10px;
+}
+
+.navbar_logo .logoLeft {
+  font-size: 1.1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color: white;
+}
+
+.navbar_logo .logoRight {
+  color: white;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.navbar_center {
+  width: 45%;
+  margin: auto 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.navbar_center .iconHome {
+  width: 29px;
+  margin-right: 10px;
+}
+
+.navbar_center .iconHome:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.navbar_center .iconFavorite {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.navbar_center .iconFavorite:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.navbar_center .iconBasket {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.navbar_center .iconBasket:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.navbar_center .iconAdd {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.navbar_center .iconAdd:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.navbar_center span {
+  font-size: 1.2rem;
+}
+
+@media screen and (max-width: 758px) {
+  .navbar_center span {
+    display: none;
+  }
+  .navbar_center .iconBasket,
+  .navbar_center .iconHome,
+  .navbar_center .iconFavorite {
+    width: 25px;
+  }
+}
+
+.navbar_right {
+  width: 10%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.navbar_right h4 {
+  color: white;
+  margin: auto 1%;
+}
+
+.navbar_right .iconLogin {
+  width: 30px;
+  height: 50px;
+}
+
+.navbar_right .iconLogin:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.navbar_right .iconLogout {
+  width: 30px;
+  height: 50px;
+}
+
+.navbar_right .iconLogout:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+@media screen and (max-width: 758px) {
+  .navbar_right h4 {
+    display: none;
+  }
+}
+/*# sourceMappingURL=Navbar.css.map */

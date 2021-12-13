@@ -1,0 +1,22 @@
+.content_carsList {
+  width: 52%;
+  display: flex;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+@media screen and (max-width: 740px) {
+  .content {
+    display: block;
+  }
+  .accordion {
+    margin: 0 auto;
+  }
+  .content_carsList {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
